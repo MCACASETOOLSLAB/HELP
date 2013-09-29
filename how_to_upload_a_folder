@@ -1,0 +1,27 @@
+Extra Requirements:
+Windows 7(I havent yet tried it on other platforms)
+install github on your pc
+
+
+Step1. Create a clone of the repo. on your pc
+	paste your folder in the cloned repo. folder.
+	e.g. in c:\user\asus\documents\Github\16_47_64_83>
+	after pasting the folder "dpp" (say) it should be 
+	C:\Users\asus\Documents\GitHub\group16-47-64-83 [master]> cd dpp
+	C:\Users\asus\Documents\GitHub\group16-47-64-83\dpp [master]>
+Step2. Open powershell
+	click start>type git in search>click on "git shell"
+step3. type "git add "
+	ignore the warnings 
+step4. type "git commit"
+	if warnings are still there then a text file will open. type "Using ARGV", save close the file.
+	wait for the processing.
+step5. type "git push"
+	if no warning then you are done, check on the repository.
+step6. stop
+
+
+Thankyou
+By NaveenKumarMultani205112047
+
+	
