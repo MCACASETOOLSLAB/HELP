@@ -7,4 +7,4 @@ Purpose of this folder is to provide
 
 Maintaining:
 create your seperate files with their names as the "topic" or "purpose" of the information.
-for e.g. "how_to_upload_a_folder.txt"
+for e.g. "how_to_upload_a_folder"
