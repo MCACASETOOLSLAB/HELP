@@ -14,7 +14,7 @@ Step2. Open powershell
 step3. type "git add . "
 	ignore the warnings 
 step4. type "git commit"
-	if warnings are still there then a text file will open. type "Using ARGV", save close the file.
+	if warnings are still there then a text file will open. type Any title(mandatory), save close the file.
 	wait for the processing.
 step5. type "git push"
 	if no warning then you are done, check on the repository.
