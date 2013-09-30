@@ -11,7 +11,7 @@ Step1. Create a clone of the repo. on your pc
 	C:\Users\asus\Documents\GitHub\group16-47-64-83\dpp [master]>
 Step2. Open powershell
 	click start>type git in search>click on "git shell"
-step3. type "git add "
+step3. type "git add . "
 	ignore the warnings 
 step4. type "git commit"
 	if warnings are still there then a text file will open. type "Using ARGV", save close the file.
