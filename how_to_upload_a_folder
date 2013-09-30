@@ -17,7 +17,8 @@ step4. type "git commit"
 	if warnings are still there then a text file will open. type Any title(mandatory), save close the file.
 	wait for the processing.
 step5. type "git push"
-	if no warning then you are done, check on the repository.
+	if no warning then you are done, check on the repository on web.
+step6. if any error occurs then type "git pull" and redo step3 to step5.
 step6. stop
 
 
